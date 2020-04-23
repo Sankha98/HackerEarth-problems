@@ -1,3 +1,4 @@
+//Simple sum of two arrays into a new array
 #include<bits/stdc++.h>
 using namespace std;
 int main()
