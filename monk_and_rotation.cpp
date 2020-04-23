@@ -1,3 +1,4 @@
+//Rotate the array right by d elements
 #include<bits/stdc++.h>
 using namespace std;
 int arr[100001];
