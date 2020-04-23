@@ -1,3 +1,4 @@
+//counting substring having longest vowels
 #include<bits/stdc++.h>
 using namespace std;
 int main()
